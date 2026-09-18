@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**qbpg/qbpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# root@qbpg:~$ whoami
 
-Here are some ideas to get you started:
+<p><em>Minimalist web tools & system architecture.</em></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Visitor Count](https://komarev.com/ghpvc/?username=qbpg&color=18181b&style=flat-square&label=ACCESS)
+
+</div>
+
+---
+
+## ⚡ Live Status
+```json
+{
+  "status": "online",
+  "focus": ["web-stack", "automation"],
+  "theme": "zinc-950"
+}
