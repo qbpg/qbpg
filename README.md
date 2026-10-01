@@ -1,69 +1,57 @@
 <div align="center">
 
-<!-- BANNIÈRE VINLAND SAGA -->
-<img src="https://c.tenor.com/D_8TWFYkI88AAAAd/tenor.gif" width="100%" style="border-radius: 8px; opacity: 0.85; box-shadow: 0 4px 16px rgba(0,0,0,0.6);" alt="Vinland Saga Banner" />
+<img src="https://c.tenor.com/D_8TWFYkI88AAAAd/tenor.gif" width="100%" alt="Bannière Vinland Saga">
 
-<br><br>
+# qbpg
 
-> *« I have no enemies. »*  
-> ── **Thorfinn**, *Vinland Saga*
+Je crée des applications web et des extensions navigateur, avec une attention particulière à la simplicité et à l’interface.
 
-<br>
+*« I have no enemies. » — Thorfinn, Vinland Saga*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=qbpg&color=18181b&style=flat-square&label=ACCESS)
+[Projets](#projets) · [Technologies](#technologies) · [Contact](#contact)
 
-</div>
-
----
-
-<div align="center">
-
-### 🛠️ Stack & Technologies
-
-<br>
-
-**Languages**  
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Java](https://img.shields.io/badge/java-%23ED8B0D.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-
-<br><br>
-
-**Frontend**  
-[![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
-[![Tailwind CSS](https://img.shields.io/badge/tailwind_css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-
-<br><br>
-
-**Backend & Database**  
-[![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![REST API](https://img.shields.io/badge/REST_API-gray?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Glossary/REST_API)
-[![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-
-<br><br>
-
-**DevOps & Cloud**  
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
-[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://cloudflare.com/)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)](https://ubuntu.com/)
-
-<br><br>
-
-**Tools**  
-[![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://postman.com/)
+![Visites du profil](https://komarev.com/ghpvc/?username=qbpg&color=18181b&style=flat-square&label=Visites)
 
 </div>
 
----
+## Projets
 
-<div align="center">
+| Projet | Description | Liens |
+| --- | --- | --- |
+| **AetherFetch** | Une messagerie temporaire pour créer des adresses, gérer plusieurs comptes et lire ses messages. | [Site](https://aetherfetch.vercel.app/) · [Code](https://github.com/qbpg/AetherFetch) |
+| **AetherFetch Extension** | Une extension pour consulter ses mails temporaires et récupérer les codes de vérification depuis le navigateur. Compatible avec Firefox, LibreWolf et Edge. | [Code et installation](https://github.com/qbpg/aetherfetch-extension) |
 
-### 📬 Contact
-**Email** : qbpg.sg@outlook.com
+## Technologies
 
-</div>
+**Langages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-18181b?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-18181b?style=flat-square&logo=typescript&logoColor=3178C6)
+![Java](https://img.shields.io/badge/Java-18181b?style=flat-square&logo=openjdk&logoColor=white)
+
+**Interface**
+
+![Next.js](https://img.shields.io/badge/Next.js-18181b?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-18181b?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-18181b?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![HTML5](https://img.shields.io/badge/HTML5-18181b?style=flat-square&logo=html5&logoColor=E34F26)
+
+**Serveur et données**
+
+![Node.js](https://img.shields.io/badge/Node.js-18181b?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![REST API](https://img.shields.io/badge/REST_API-18181b?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-18181b?style=flat-square&logo=mysql&logoColor=4479A1)
+
+**Déploiement et outils**
+
+![Vercel](https://img.shields.io/badge/Vercel-18181b?style=flat-square&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-18181b?style=flat-square&logo=cloudflare&logoColor=F38020)
+![Docker](https://img.shields.io/badge/Docker-18181b?style=flat-square&logo=docker&logoColor=2496ED)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-18181b?style=flat-square&logo=ubuntu&logoColor=E95420)
+![VS Code](https://img.shields.io/badge/VS_Code-18181b?style=flat-square)
+![Git](https://img.shields.io/badge/Git-18181b?style=flat-square&logo=git&logoColor=F05032)
+![Postman](https://img.shields.io/badge/Postman-18181b?style=flat-square&logo=postman&logoColor=FF6C37)
+
+## Contact
+
+Pour échanger sur un projet : [qbpg.sg@outlook.com](mailto:qbpg.sg@outlook.com).
