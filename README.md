@@ -64,6 +64,10 @@ I build web applications and browser extensions, with a focus on simplicity and 
 
 </div>
 
-## Contact
+<h2 align="center" id="contact">Contact</h2>
 
-Get in touch: [qbpg.sg@outlook.com](mailto:qbpg.sg@outlook.com).
+<p align="center">
+  <a href="mailto:qbpg.sg@outlook.com" title="Outlook — qbpg.sg@outlook.com"><img src="assets/outlook-mail.svg" alt="Email me on Outlook" width="44" height="44"></a>
+  &nbsp;
+  <a href="mailto:qbpg.sg@tutamail.com" title="Tuta Mail — qbpg.sg@tutamail.com"><img src="assets/tuta-mail.svg" alt="Email me on Tuta Mail" width="44" height="44"></a>
+</p>
