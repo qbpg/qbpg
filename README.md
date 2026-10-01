@@ -24,6 +24,8 @@ I build web applications and browser extensions, with a focus on simplicity and 
   <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" title="JavaScript" width="44" height="44">
   <img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" title="TypeScript" width="44" height="44">
   <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" title="Java" width="44" height="44">
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" title="Python" width="44" height="44">
+  <img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" title="C" width="44" height="44">
 </p>
 
 <h3>Frontend</h3>
@@ -40,6 +42,9 @@ I build web applications and browser extensions, with a focus on simplicity and 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" title="Node.js" width="44" height="44">
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" title="MySQL" width="44" height="44">
+  <img src="https://skillicons.dev/icons?i=supabase&theme=dark" alt="Supabase" title="Supabase" width="44" height="44">
+  <img src="https://cdn.simpleicons.org/neon/00E599" alt="Neon" title="Neon" width="44" height="44">
+  <img src="https://skillicons.dev/icons?i=firebase&theme=dark" alt="Firebase" title="Firebase" width="44" height="44">
 </p>
 
 <h3>Deployment & tools</h3>
@@ -52,6 +57,9 @@ I build web applications and browser extensions, with a focus on simplicity and 
   <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" title="VS Code" width="44" height="44">
   <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" title="Git" width="44" height="44">
   <img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman" title="Postman" width="44" height="44">
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" title="Linux" width="44" height="44">
+  <img src="https://skillicons.dev/icons?i=powershell&theme=dark" alt="PowerShell" title="PowerShell" width="44" height="44">
+  <img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" alt="Android Studio" title="Android Studio" width="44" height="44">
 </p>
 
 </div>
