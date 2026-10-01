@@ -8,50 +8,54 @@ I build web applications and browser extensions, with a focus on simplicity and 
 
 *« I have no enemies. » — Thorfinn, Vinland Saga*
 
-[Projects](#projects) · [Technologies](#technologies) · [Contact](#contact)
+[Technologies](#technologies) · [Contact](#contact)
 
 ![Profile views](https://komarev.com/ghpvc/?username=qbpg&color=18181b&style=flat-square&label=Views)
 
 </div>
 
-## Projects
+<h2 align="center" id="technologies">Technologies</h2>
 
-| Project | Description | Links |
-| --- | --- | --- |
-| **AetherFetch** | Temporary email inboxes for creating addresses, managing multiple accounts, and reading messages. | [Website](https://aetherfetch.vercel.app/) · [Code](https://github.com/qbpg/AetherFetch) |
-| **AetherFetch Extension** | A browser extension for reading temporary emails and copying verification codes. Compatible with Firefox, LibreWolf, and Edge. | [Code and installation](https://github.com/qbpg/aetherfetch-extension) |
+<div align="center">
 
-## Technologies
+<h3>Languages</h3>
 
-**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" title="JavaScript" width="44" height="44">
+  <img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" title="TypeScript" width="44" height="44">
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" title="Java" width="44" height="44">
+</p>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-18181b?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-18181b?style=flat-square&logo=typescript&logoColor=3178C6)
-![Java](https://img.shields.io/badge/Java-18181b?style=flat-square&logo=openjdk&logoColor=white)
+<h3>Frontend</h3>
 
-**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" title="Next.js" width="44" height="44">
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" title="React" width="44" height="44">
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" title="Tailwind CSS" width="44" height="44">
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" title="HTML5" width="44" height="44">
+</p>
 
-![Next.js](https://img.shields.io/badge/Next.js-18181b?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-18181b?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-18181b?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-![HTML5](https://img.shields.io/badge/HTML5-18181b?style=flat-square&logo=html5&logoColor=E34F26)
+<h3>Backend & databases</h3>
 
-**Backend & databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" title="Node.js" width="44" height="44">
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" title="MySQL" width="44" height="44">
+</p>
 
-![Node.js](https://img.shields.io/badge/Node.js-18181b?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
-![REST API](https://img.shields.io/badge/REST_API-18181b?style=flat-square)
-![MySQL](https://img.shields.io/badge/MySQL-18181b?style=flat-square&logo=mysql&logoColor=4479A1)
+<h3>Deployment & tools</h3>
 
-**Deployment & tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Vercel" title="Vercel" width="44" height="44">
+  <img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" alt="Cloudflare" title="Cloudflare" width="44" height="44">
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" title="Docker" width="44" height="44">
+  <img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" alt="Ubuntu" title="Ubuntu" width="44" height="44">
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" title="VS Code" width="44" height="44">
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" title="Git" width="44" height="44">
+  <img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman" title="Postman" width="44" height="44">
+</p>
 
-![Vercel](https://img.shields.io/badge/Vercel-18181b?style=flat-square&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-18181b?style=flat-square&logo=cloudflare&logoColor=F38020)
-![Docker](https://img.shields.io/badge/Docker-18181b?style=flat-square&logo=docker&logoColor=2496ED)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-18181b?style=flat-square&logo=ubuntu&logoColor=E95420)
-![VS Code](https://img.shields.io/badge/VS_Code-18181b?style=flat-square)
-![Git](https://img.shields.io/badge/Git-18181b?style=flat-square&logo=git&logoColor=F05032)
-![Postman](https://img.shields.io/badge/Postman-18181b?style=flat-square&logo=postman&logoColor=FF6C37)
+</div>
 
 ## Contact
 
-Get in touch about a project: [qbpg.sg@outlook.com](mailto:qbpg.sg@outlook.com).
+Get in touch: [qbpg.sg@outlook.com](mailto:qbpg.sg@outlook.com).
