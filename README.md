@@ -50,4 +50,30 @@ I build web applications and browser extensions, with a focus on simplicity and 
   <img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" alt="Cloudflare" title="Cloudflare" width="44" height="44">
   <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" title="Docker" width="44" height="44">
   <img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" alt="Ubuntu" title="Ubuntu" width="44" height="44">
-  <img src="https://skillicons.dev/icons?i=v
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" title="VS Code" width="44" height="44">
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" title="Git" width="44" height="44">
+  <img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman" title="Postman" width="44" height="44">
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" title="Linux" width="44" height="44">
+  <img src="https://skillicons.dev/icons?i=powershell&theme=dark" alt="PowerShell" title="PowerShell" width="44" height="44">
+  <img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" alt="Android Studio" title="Android Studio" width="44" height="44">
+</p>
+
+</div>
+
+<h2 align="center" id="contact">Contact</h2>
+
+<p align="center">
+  <a href="mailto:qbpg.sg@outlook.com" title="Outlook — qbpg.sg@outlook.com"><img src="https://raw.githubusercontent.com/qbpg/qbpg/e7321ea346d32cf80053d2e9e883ede7c152259d/assets/outlook-mail.svg" alt="Email me on Outlook" width="44" height="44"></a>
+  &nbsp;
+  <a href="mailto:qbpg.sg@tutamail.com" title="Tuta Mail — qbpg.sg@tutamail.com"><img src="https://raw.githubusercontent.com/qbpg/qbpg/e7321ea346d32cf80053d2e9e883ede7c152259d/assets/tuta-mail.svg" alt="Email me on Tuta Mail" width="44" height="44"></a>
+</p>
+
+<br>
+
+<div align="center">
+
+<img src="https://c.tenor.com/D_8TWFYkI88AAAAd/tenor.gif" width="100%" alt="Vinland Saga banner">
+
+*« I have no enemies. » — Thorfinn, Vinland Saga*
+
+</div>
