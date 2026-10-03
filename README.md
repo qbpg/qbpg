@@ -4,8 +4,11 @@
 
 I build web applications and browser extensions, with a focus on simplicity and interface design.
 
-[Technologies](#technologies) · [Contact](#contact)
+[Portfolio](https://qbpg.space/) · [Technologies](#technologies) · [Contact](#contact)
 
+<p align="center"><a href="https://qbpg.space/"><img src="https://raw.githubusercontent.com/qbpg/qbpg/main/assets/portfolio.svg" alt="Portfolio - QBPG" width="188" height="36"></a></p>
+
+<!-- Keep username=qbpg: this is the existing cumulative counter. Do not replace it with a new counter ID. -->
 ![Profile views](https://komarev.com/ghpvc/?username=qbpg&color=18181b&style=flat-square&label=Views)
 
 </div>
