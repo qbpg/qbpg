@@ -1,3 +1,7 @@
+<!-- qbpg-logo:start -->
+<p align="right"><a href="https://qbpg.space/"><img src="assets/qbpg-logo.svg" alt="qbpg" width="32" height="32"></a></p>
+<!-- qbpg-logo:end -->
+
 <div align="center">
 
 <img src="./assets/banner-qbpg.png" alt="QBPG — bannière Vinland Saga" width="100%">
