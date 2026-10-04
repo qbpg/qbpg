@@ -6,7 +6,7 @@
 
 I build web applications and browser extensions, with a focus on simplicity and interface design.
 
-[Technologies](#technologies) · [Contact](#contact)
+[Projects](#projects) · [Technologies](#technologies) · [Contact](#contact)
 
 <p align="center"><a href="https://qbpg.space/"><img src="https://img.shields.io/badge/Portfolio-qbpg.space-000000?style=flat-square&amp;logo=About.me&amp;logoColor=white&amp;labelColor=000000" alt="Portfolio — qbpg.space" height="28"></a></p>
 
@@ -14,6 +14,12 @@ I build web applications and browser extensions, with a focus on simplicity and 
 <a href="https://github.com/qbpg"><img src="https://komarev.com/ghpvc/?username=qbpg&amp;style=for-the-badge&amp;color=18181b&amp;label=PROFILE+VIEWS" alt="Profile views" height="28"></a>
 
 </div>
+
+<h2 align="center" id="projects">Projects / Projets</h2>
+
+<p align="center"><a href="https://github.com/qbpg/Folio"><img src="https://raw.githubusercontent.com/qbpg/Folio/main/assets/folio-banner.png" alt="Folio — extension Chrome et Chromium / Chrome and Chromium extension" width="700"></a></p>
+
+<p align="center"><a href="https://github.com/qbpg/Folio">Folio</a> — Edit, inspect and capture pages locally. / Modifiez, inspectez et capturez des pages localement.</p>
 
 <h2 align="center" id="technologies">Technologies</h2>
 
