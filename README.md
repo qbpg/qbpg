@@ -1,4 +1,4 @@
-<!-- qbpg-logo:start -->
+
 <p align="right"><a href="https://qbpg.space/"><img src="assets/qbpg-logo.svg" alt="qbpg" width="32" height="32"></a></p>
 <!-- qbpg-logo:end -->
 
@@ -6,7 +6,7 @@
 
 <img src="./assets/banner-qbpg.png" alt="QBPG — bannière Vinland Saga" width="100%">
 
-# 𝒒𝒃𝒑𝒈
+<!-- qbpg-logo:start --> # 𝒒𝒃𝒑𝒈
 
 I build web applications and browser extensions, with a focus on simplicity and interface design.
 
