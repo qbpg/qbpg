@@ -6,9 +6,7 @@
 
 <!-- qbpg-logo:start -->
 <p align="center"><a href="https://qbpg.space/"><img src="assets/qbpg-logo.svg" alt="qbpg" width="32" height="32"></a></p>
-<!-- qbpg-logo:end -->
- 
-# 𝒒𝒃𝒑𝒈
+<!-- qbpg-logo:end --> # 𝒒𝒃𝒑𝒈
 
 I build web applications and browser extensions, with a focus on simplicity and interface design.
 
