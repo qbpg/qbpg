@@ -4,9 +4,9 @@
 
 I build web applications and browser extensions, with a focus on simplicity and interface design.
 
-[Portfolio](https://qbpg.space/) · [Technologies](#technologies) · [Contact](#contact)
+[Technologies](#technologies) · [Contact](#contact)
 
-<p align="center"><a href="https://qbpg.space/"><img src="https://raw.githubusercontent.com/qbpg/qbpg/46238df45b256cde3c09e0dc658364376efe0dcc/assets/portfolio.svg" alt="Portfolio : qbpg.space" width="202" height="28"></a></p>
+<p align="center"><a href="https://qbpg.space/"><img src="https://img.shields.io/badge/Portfolio-qbpg.space-000000?style=flat-square&amp;logo=About.me&amp;logoColor=white&amp;labelColor=000000" alt="Portfolio — qbpg.space" height="28"></a></p>
 
 <!-- Keep username=qbpg: this is the existing cumulative counter. Do not replace it with a new counter ID. -->
 <a href="https://github.com/qbpg"><img src="https://komarev.com/ghpvc/?username=qbpg&amp;style=for-the-badge&amp;color=18181b&amp;label=PROFILE+VIEWS" alt="Profile views" height="28"></a>
