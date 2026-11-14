@@ -6,10 +6,9 @@
 <a href="https://qbpg.space/"><img src="./assets/qbpg-logo.svg" alt="qbpg" width="30"></a> 𝒒𝒃𝒑𝒈
 </h1>
 
-<p><strong>Web applications & browser extensions.</strong><br>
-I build practical tools with simple interfaces and thoughtful design.</p>
+I build web applications and browser extensions, with a focus on simplicity and interface design.
 
-[Projects](#projects) · [Technologies](#technologies) · [Contact](#contact)
+[Technologies](#technologies) · [Contact](#contact)
 
 <p align="center"><a href="https://qbpg.space/"><img src="https://img.shields.io/badge/Portfolio-qbpg.space-000000?style=flat-square&amp;logo=About.me&amp;logoColor=white&amp;labelColor=000000" alt="Portfolio — qbpg.space" height="28"></a></p>
 
@@ -17,15 +16,6 @@ I build practical tools with simple interfaces and thoughtful design.</p>
 <a href="https://github.com/qbpg"><img src="https://komarev.com/ghpvc/?username=qbpg&amp;style=for-the-badge&amp;color=18181b&amp;label=PROFILE+VIEWS" alt="Profile views" height="28"></a>
 
 </div>
-
-<h2 align="center" id="projects">Selected projects</h2>
-
-| Project | What it does | Explore |
-| :--- | :--- | :--- |
-| **[AetherFetch](https://github.com/qbpg/AetherFetch)** | Temporary email inboxes with multiple accounts, live updates, and quick access to verification codes. Built with Next.js, React, and TypeScript. | [Try the app](https://aetherfetch.vercel.app/) |
-| **[AetherFetch Extension](https://github.com/qbpg/aetherfetch-extension)** | Create temporary addresses and read messages from a browser popup, with a connection to the AetherFetch dashboard. Built for Firefox and Microsoft Edge. | [Installation guide](https://github.com/qbpg/aetherfetch-extension#install) |
-
-<p align="center"><a href="https://qbpg.space/">More about my work → qbpg.space</a></p>
 
 <h2 align="center" id="technologies">Technologies</h2>
 
@@ -82,8 +72,6 @@ I build practical tools with simple interfaces and thoughtful design.</p>
 </div>
 
 <h2 align="center" id="contact">Contact</h2>
-
-<p align="center">Have a question or a project in mind? Get in touch.</p>
 
 <p align="center">
   <a href="mailto:qbpg.sg@outlook.com" title="Outlook — qbpg.sg@outlook.com"><img src="https://raw.githubusercontent.com/qbpg/qbpg/e7321ea346d32cf80053d2e9e883ede7c152259d/assets/outlook-mail.svg" alt="Email me on Outlook" width="44" height="44"></a>
