@@ -74,7 +74,7 @@ I build web applications and browser extensions, with a focus on simplicity and 
 <h2 align="center" id="contact">Contact</h2>
 
 <p align="center">
-  <a href="mailto:contact@qbpg.space" title="Contact — contact@qbpg.space"><img src="./assets/qbpg-logo.svg" alt="Contacter QBPG par email" width="44" height="44"></a>
+  <a href="mailto:contact@qbpg.space" title="Contact — contact@qbpg.space"><img src="./assets/qbpg-contact.png" alt="Contacter QBPG par email" width="44" height="44"></a>
 </p>
 
 <br>
