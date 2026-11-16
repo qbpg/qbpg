@@ -1,0 +1,12 @@
+# Normalize text files when contributors use different operating systems.
+* text=auto
+
+# Keep README and vector badges consistent across Windows and Linux.
+*.md text eol=lf
+*.svg text eol=lf
+
+# Preserve image bytes and avoid text diffs for raster assets.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
