@@ -3,7 +3,7 @@
 <img src="./assets/banner-qbpg.png" alt="QBPG — bannière Vinland Saga" width="100%">
 
 <h1>
-<a href="https://qbpg.space/"><img src="./assets/qbpg-logo.svg" alt="qbpg" width="30"></a> 𝒒𝒃𝒑𝒈
+𝒒𝒃𝒑𝒈
 </h1>
 
 I build web applications and browser extensions, with a focus on simplicity and interface design.
