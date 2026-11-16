@@ -8,8 +8,6 @@
 
 I build web applications and browser extensions, with a focus on simplicity and interface design.
 
-[Technologies](#technologies) · [Contact](#contact)
-
 <p align="center"><a href="https://qbpg.space/"><img src="https://img.shields.io/badge/Portfolio-qbpg.space-000000?style=flat-square&amp;logo=About.me&amp;logoColor=white&amp;labelColor=000000" alt="Portfolio — qbpg.space" height="24"></a></p>
 
 <!-- Keep username=qbpg: this is the existing cumulative counter. Do not replace it with a new counter ID. -->
