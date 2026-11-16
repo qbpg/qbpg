@@ -6,7 +6,7 @@
 𝒒𝒃𝒑𝒈
 </h1>
 
-I build web applications and browser extensions, with a focus on simplicity and interface design.
+I create websites, web applications, and all kinds of projects — from useful tools to experiments. I code both with and without AI, exploring new ideas and learning as I build.
 
 <p align="center"><a href="https://qbpg.space/"><img src="https://img.shields.io/badge/Portfolio-qbpg.space-000000?style=flat-square&amp;logo=About.me&amp;logoColor=white&amp;labelColor=000000" alt="Portfolio — qbpg.space" height="24"></a></p>
 
