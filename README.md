@@ -24,25 +24,25 @@ I build web applications and browser extensions, with a focus on simplicity and 
 <h3>Languages</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript" height="24">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" height="24">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java" height="24">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&amp;logo=python&amp;logoColor=blue" alt="Python" height="24">
+  <img src="./assets/badges/javascript.svg" alt="JavaScript" height="36">
+  <img src="./assets/badges/typescript.svg" alt="TypeScript" height="36">
+  <img src="./assets/badges/java.svg" alt="Java" height="36">
+  <img src="./assets/badges/python.svg" alt="Python" height="36">
 </p>
 
 <h3>Frontend</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/next%20js-000000?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" height="24">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React" height="24">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&amp;logo=tailwind-css&amp;logoColor=white" alt="Tailwind CSS" height="24">
+  <img src="./assets/badges/nextjs.svg" alt="Next.js" height="36">
+  <img src="./assets/badges/react.svg" alt="React" height="36">
+  <img src="./assets/badges/tailwind.svg" alt="Tailwind CSS" height="36">
 </p>
 
 <h3>Backend & databases</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/Node%20js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" height="24">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="MySQL" height="24">
+  <img src="./assets/badges/nodejs.svg" alt="Node.js" height="36">
+  <img src="./assets/badges/mysql.svg" alt="MySQL" height="36">
 </p>
 
 <details>
@@ -50,8 +50,8 @@ I build web applications and browser extensions, with a focus on simplicity and 
 <br>
 
 <p>
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&amp;logo=Cloudflare&amp;logoColor=white" alt="Cloudflare" height="24">
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" height="24">
+  <img src="./assets/badges/cloudflare.svg" alt="Cloudflare" height="36">
+  <img src="./assets/badges/git.svg" alt="Git" height="36">
 </p>
 
 </details>
@@ -61,7 +61,7 @@ I build web applications and browser extensions, with a focus on simplicity and 
 <h2 align="center" id="contact">Contact</h2>
 
 <p align="center">
-  <a href="mailto:contact@qbpg.space" title="Contact — contact@qbpg.space"><img src="./assets/qbpg-contact-mail.svg" alt="Contacter qbpg par email" width="80" height="64"></a>
+  <a href="mailto:contact@qbpg.space" title="Contact — contact@qbpg.space"><img src="./assets/qbpg-contact.png" alt="Contacter QBPG par email" width="44" height="44"></a>
 </p>
 
 <br>
