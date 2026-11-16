@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner-qbpg.png" alt="QBPG — bannière Vinland Saga" width="100%">
+<img src="./assets/banner-qbpg.png" alt="qbpg — Vinland Saga banner" width="100%">
 
 <h1>
 𝒒𝒃𝒑𝒈
@@ -36,7 +36,7 @@ I create websites, web applications, and all kinds of projects — from useful t
   <img src="./assets/badges/tailwind.svg" alt="Tailwind CSS" height="36">
 </p>
 
-<h3>Backend & databases</h3>
+<h3>Backend &amp; databases</h3>
 
 <p>
   <img src="./assets/badges/nodejs.svg" alt="Node.js" height="36">
@@ -44,7 +44,7 @@ I create websites, web applications, and all kinds of projects — from useful t
 </p>
 
 <details>
-<summary><strong>Deployment & tools</strong></summary>
+<summary><strong>Deployment &amp; tools</strong></summary>
 <br>
 
 <p>
@@ -59,7 +59,7 @@ I create websites, web applications, and all kinds of projects — from useful t
 <h2 align="center" id="contact">Contact</h2>
 
 <p align="center">
-  <a href="mailto:contact@qbpg.space" title="Contact — contact@qbpg.space"><img src="./assets/qbpg-contact.png" alt="Contacter QBPG par email" width="44" height="44"></a>
+  <a href="mailto:contact@qbpg.space" title="Contact — contact@qbpg.space"><img src="./assets/qbpg-contact.png" alt="Email qbpg at contact@qbpg.space" width="44" height="44"></a>
 </p>
 
 <br>
