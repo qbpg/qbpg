@@ -8,10 +8,10 @@
 
 I create websites, web applications, and all kinds of projects — from useful tools to experiments. I code both with and without AI, exploring new ideas and learning as I build.
 
-<p align="center"><a href="https://qbpg.space/"><img src="https://img.shields.io/badge/Portfolio-qbpg.space-000000?style=flat-square&amp;logo=About.me&amp;logoColor=white&amp;labelColor=000000" alt="Portfolio — qbpg.space" height="24"></a></p>
+<p align="center"><a href="https://qbpg.space/"><img src="./assets/badges/portfolio.svg" alt="Portfolio — qbpg.space" height="36"></a></p>
 
 <!-- Keep username=qbpg: this is the existing cumulative counter. Do not replace it with a new counter ID. -->
-<a href="https://github.com/qbpg"><img src="https://komarev.com/ghpvc/?username=qbpg&amp;style=for-the-badge&amp;color=18181b&amp;label=PROFILE+VIEWS" alt="Profile views" height="28"></a>
+<a href="https://github.com/qbpg"><img src="https://komarev.com/ghpvc/?username=qbpg&amp;style=flat&amp;color=202126&amp;label=Profile+views" alt="Profile views" height="36"></a>
 
 </div>
 
