@@ -59,7 +59,7 @@ I create websites, web applications, and all kinds of projects — from useful t
 <h2 align="center" id="contact">Contact</h2>
 
 <p align="center">
-  <a href="mailto:contact@qbpg.space" title="Contact — contact@qbpg.space"><img src="./assets/qbpg-contact.png" alt="Email qbpg at contact@qbpg.space" width="44" height="44"></a>
+  <a href="mailto:contact@qbpg.space" title="Contact — contact@qbpg.space"><img src="./assets/badges/mail.svg" alt="Mail — contact@qbpg.space" height="36"></a>
 </p>
 
 <br>
