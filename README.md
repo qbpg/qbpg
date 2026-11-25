@@ -60,6 +60,7 @@ I create websites, web applications, and all kinds of projects — from useful t
 
 <p align="center">
   <a href="mailto:contact@qbpg.space" title="Contact — contact@qbpg.space"><img src="./assets/badges/mail.svg" alt="Mail — contact@qbpg.space" height="36"></a>
+  <a href="https://discord.com/users/1119605820699725885" title="Discord — qbpg"><img src="./assets/badges/discord.svg" alt="Discord — qbpg" height="36"></a>
 </p>
 
 <br>
